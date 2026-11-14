@@ -4,6 +4,8 @@ Every Aptdot tool processes your data on your own device. Nothing is uploaded, a
 
 **Tools**
 - [JSON Formatter & Minifier](https://www.aptdot.com/tools/json-formatter-minifier/), [JSON-LD Validator](https://www.aptdot.com/tools/json-ld-validator/), [CSV to JSON](https://www.aptdot.com/tools/csv-to-json/) and converters from JSON to [YAML](https://www.aptdot.com/tools/json-to-yaml/), [CSV](https://www.aptdot.com/tools/json-to-csv/), [TypeScript](https://www.aptdot.com/tools/json-to-typescript/), [Python](https://www.aptdot.com/tools/json-to-python/) and [Markdown](https://www.aptdot.com/tools/json-to-markdown/)
+- [JWT Decoder & Verifier](https://www.aptdot.com/tools/jwt-decoder/): decode, verify and security-check JSON Web Tokens
+- [Mock JSON Generator](https://www.aptdot.com/tools/mock-json-generator/) and [Apt Memo](https://www.aptdot.com/tools/free-online-notepad/), a private online notepad
 
 **Datasets**
 
