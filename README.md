@@ -3,7 +3,7 @@
 Every Aptdot tool processes your data on your own device. Nothing is uploaded, and the code is open here for you to check.
 
 **Tools**
-- [JSON Formatter & Minifier](https://www.aptdot.com/tools/json-formatter-minifier/), [JSON-LD Validator](https://www.aptdot.com/tools/json-ld-validator/), [CSV to JSON](https://www.aptdot.com/tools/csv-to-json/) and converters from JSON to [YAML](https://www.aptdot.com/tools/json-to-yaml/), [CSV](https://www.aptdot.com/tools/json-to-csv/), [TypeScript](https://www.aptdot.com/tools/json-to-typescript/), [Python](https://www.aptdot.com/tools/json-to-python/) and [Markdown](https://www.aptdot.com/tools/json-to-markdown/)
+- [JSON Formatter & Minifier](https://www.aptdot.com/tools/json-formatter-minifier/), [JSON Compare](https://www.aptdot.com/tools/json-compare/), [JSON-LD Validator](https://www.aptdot.com/tools/json-ld-validator/), [CSV to JSON](https://www.aptdot.com/tools/csv-to-json/), [YAML to JSON](https://www.aptdot.com/tools/yaml-to-json/) and converters from JSON to [YAML](https://www.aptdot.com/tools/json-to-yaml/), [CSV](https://www.aptdot.com/tools/json-to-csv/), [TypeScript](https://www.aptdot.com/tools/json-to-typescript/), [Python](https://www.aptdot.com/tools/json-to-python/) and [Markdown](https://www.aptdot.com/tools/json-to-markdown/)
 - [JWT Decoder & Verifier](https://www.aptdot.com/tools/jwt-decoder/): decode, verify and security-check JSON Web Tokens
 - [Mock JSON Generator](https://www.aptdot.com/tools/mock-json-generator/): sample JSON payloads for users, products and locations
 
